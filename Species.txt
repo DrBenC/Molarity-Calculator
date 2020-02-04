@@ -1,0 +1,5 @@
+Copper Acetate	181.63	SOLID
+Trimesic Acid	210.14	SOLID
+Ethanol	46.07	0.789
+11-MUA	218.36	SOLID
+4-MBA	154.19	SOLID
