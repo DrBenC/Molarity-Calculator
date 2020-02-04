@@ -1,5 +1,6 @@
 """
 A simple calculator which imports compound data (name, molar mass, density) and can calculate how much is needed to make up desired concentrations
+Species.txt should contain all the chemicals, mass, and density (or the word SOLID) seperated with a space.
 """
 
 import glob
@@ -21,7 +22,7 @@ if len(species_info) == 0:
 #begins window
 window = Tk()
 
-window.title("Moistly Calculator")
+window.title("DrBenC's Concentration and Dilution Calculator")
 window.geometry("440x250")
 
 vol_var = StringVar()
